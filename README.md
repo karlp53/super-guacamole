@@ -1,2 +1,1 @@
-# super-guacamole
-Random posts and articles
+kpersson.com - Random posts and articles
